@@ -1,0 +1,15 @@
+{
+    "name": "drieb/ipt10-scriptures-books-strapi",
+    "autoload": {
+        "psr-4": {
+            "Drieb\\Ipt10ScripturesBooksStrapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bustarde",
+            "email": "bustarde.audriel@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
